@@ -1,6 +1,6 @@
 # Machine_Learning_for__Realibilty-Engineering_Predictive_Maintainance
 
-Comapnies is gathering several types of data for its fleet of very expensive machines. 
+A Comapny is gathering several types of data for its fleet of very expensive machines. 
 These very expensive machines have three operating modes: normal, faulty and failed. 
 The machines run all the time, and usually they are in normal mode. 
 However, in the event that the machine enters faulty mode, the company would like to be aware of this as soon as possible. 
